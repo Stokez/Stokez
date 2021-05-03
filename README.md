@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stokez
 - 👀 I’m interested in app development and ethical hacking
 - 🌱 I’m currently learning full stack dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Big shoutout to CJ @ Coding Garden - huge help!!
 - 📫 How to reach me ... stokez.csuk@gmail.com
 
 <!---
